@@ -1,1 +1,1 @@
-{phatphat-oknote} {khangkhang-oknote} {chienchien-oknote} {phuongphuong-oknote}
+{phatphat-oknote} {khangkhang-oknote} {phuongphuong-oknote}
